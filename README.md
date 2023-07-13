@@ -1,2 +1,2 @@
 # RepositorioVR
- Primeiro Repositório do curso GIT  e GITHUB
+ Primeiro Repositório do curso GIT  e GITHUB!
